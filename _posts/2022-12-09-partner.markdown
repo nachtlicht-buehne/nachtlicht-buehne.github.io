@@ -1,0 +1,18 @@
+---
+title: "Mitwirkende"
+layout: default
+permalink: /partner
+---
+
+Deutsches Zentrum für Luft- und Raumfahrt e.V., Institut für Datenwissenschaften, Jena  
+Ansprechpartnerin:  
+Dr. Friederike Klan ([friederike.klan@dlr.de](mailto:friederike.klan@dlr.de))
+
+  
+Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum GFZ  
+Ansprechpartner:  
+Dr. Christopher Kyba ([christopher.kyba@gfz-potsdam.de](mailto:christopher.kyba@gfz-potsdam.de))  
+Dr. Nona Schulte-Römer ([nona.schulte-roemer@gfz-potsdam.de](mailto:nona.schulte-roemer@gfz-potsdam.de))
+
+  
+Deutsches Zentrum für Luft- und Raumfahrt e.V., Institut für Planetenforschung, Berlin

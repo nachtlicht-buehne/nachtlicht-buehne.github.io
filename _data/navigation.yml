@@ -1,0 +1,22 @@
+header:
+- title: Startseite
+  url: /
+
+- title: Feuerkugeln
+  url: /feuerkugeln
+
+- title: Nachtlichter
+  url: /nachtlichter
+
+- title: Mitwirkende
+  url: /partner
+
+footer:
+- title: Impressum
+  url: /impressum
+
+- title: Datenschutz
+  url: /datenschutz
+
+- title: Barrierefreiheit
+  url: /barrierefreiheit
