@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title:  "Nachtlicht-BüHNE"
 permalink: /
 ---
-## Nachtlicht-BüHNE
 Nachtlicht-BüHNE ist ein Projekt der deutschen Helmholtz-Gemeinschaft, das Freiwillige mit Helmholtz-Forscher\*innen zusammenbringt, um neue Erkenntnisse zu gewinnen. Der Projektname ist eine Abkürzung und steht für „**Bü**rger-**H**elmholtz-**Ne**tzwerk für die Erforschung nächtlicher Lichtphänomene“. Wenn Menschen, die nicht dafür bezahlt werden, zur Wissenschaft beitragen, nennt man das Bürgerwissenschaft (Englisch auch „Citizen Science“). Was unser Projekt in diesem Kontext besonders macht, ist, dass wir unsere Bürgerwissenschaftler*innen nicht nur bitten, Daten zu erheben, sondern dass sie in jeder Phase des Experiments beteiligt waren – von der Planung über die Datenerfassung bis hin zur Datenanalyse. Wir nennen das Co-Design.
 
 Im Rahmen des Projekts hat unser Netzwerk zwei mobile Anwendungen entwickelt: Die **Skywatcher App**, [mit der sich die Sichtung heller Meteore melden lässt](/feuerkugeln), und die **Nachtlichter App**, [mit der wir künstliche Beleuchtung dokumentieren und räumlich erfassen.](/nachtlichter)

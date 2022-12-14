@@ -1,6 +1,6 @@
 ---
 title: "Datenschutz"
-layout: default
+layout: page
 permalink: /datenschutz
 ---
 

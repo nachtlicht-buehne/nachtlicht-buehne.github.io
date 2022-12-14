@@ -1,11 +1,8 @@
 ---
-layout: default
-title:  "Feuerkugeln Nachtlicht-BüHNE"
+layout: page
+title:  "Feuerkugeln"
 permalink: /feuerkugeln
 ---
-
-## Feuerkugeln
-
 Meteore, auch Sternschnuppen genannt, sind Staubteilchen die in der Hochatmosphäre unserer Erde verglühen. Außergewöhnlich helle Meteore werden als Feuerkugeln bezeichnet und sind von großem wissenschaftlichen Interesse. Aus ihrer Flugbahn und ihren Lichtspuren lassen sich Erkenntnisse über ihre Entstehung innerhalb unseres Sonnensystems und den möglichen Mutterkörper gewinnen. Da die Himmelsüberwachung mit Kameras nicht lückenlos erfolgen kann, sind Feuerkugelmeldungen durch Augenzeugen von großem Wert. Wir entwickeln eine App, mit der die Sichtung von Feuerkugeln gemeldet und erste Informationen über ein Feuerkugelereignis angezeigt werden können. 
 
 Diese Web-App ist hier verfügbar: [https://meteor.nachtlicht-buehne.de](https://meteor.nachtlicht-buehne.de)

@@ -1,6 +1,6 @@
 ---
 title: "Nachtlichter"
-layout: default
+layout: page
 permalink: /nachtlichter
 ---
 
@@ -26,7 +26,7 @@ Von Ende August bis Mitte November 2021 waren **über 200 Bürgerwissenschaftler
 
 In der Auswertungsphase sind die Teilnehmenden nun wieder gefragt und beteiligen sich an der Datenanalyse sowie an den wissenschaftlichen Publikationen. **Erste Ergebnisse werden ab Mitte 2022** erwartet. Das gemeinsame Ziel des Nachtlichter-Netzwerks ist es, Bewusstsein für nachhaltige Beleuchtung zu wecken. 
 
-![](static/images/website_project_progress.png)
+![](/assets/img/website_project_progress.png)
 
 Näheres zum Stand der einzelnen Veröffentlichungen siehe unten.
 
@@ -40,7 +40,7 @@ Die wissenschaftlichen Hintergründe des Projekts erläutern wir in einem [Webin
 
 **Wir schaffen** **Aufmerksamkeit für nachhaltigere Beleuchtung**, indem wir Bürgerinnen und Bürger in verschiedenen Städten einladen, unsere App zu nutzen, sich an unseren Nachtlichter-Messkampagnen zu beteiligen und sich so aktiv mit künstlicher Beleuchtung und ihre Nebeneffekte zu beschäftigen. 
 
-![](static/images/website_publication_progress.png)
+![](/assets/img/website_publication_progress.png)
 
 ### Nachtlichter-Kampagnen
 

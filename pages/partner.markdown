@@ -1,6 +1,6 @@
 ---
 title: "Mitwirkende"
-layout: default
+layout: page
 permalink: /partner
 ---
 
