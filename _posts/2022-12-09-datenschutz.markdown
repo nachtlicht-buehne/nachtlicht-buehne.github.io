@@ -45,7 +45,7 @@ _3\. Verarbeitung_ 
 
 Verarbeitung ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung. 
 
-_4\. Einschr__ä__nkung der Verarbeitung_ 
+_4\. Einschränkung der Verarbeitung_ 
 
 Einschränkung der Verarbeitung ist die Markierung gespeicherter personenbezogener Daten mit dem Ziel, ihre künftige Verarbeitung einzuschränken. 
 
@@ -57,7 +57,7 @@ _6\. Pseudonymisierung_ 
 
 Pseudonymisierung ist die Verarbeitung personenbezogener Daten in einer Weise, auf welche die personenbezogenen Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer spezifischen betroffenen Person zugeordnet werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt werden und technischen und organisatorischen Maßnahmen unterliegen, die gewährleisten, dass die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person zugewiesen werden. 
 
-_7\. Verantwortlicher oder f__ü__r die Verarbeitung Verantwortlicher_ 
+_7\. Verantwortlicher oder für die Verarbeitung Verantwortlicher_ 
 
 Verantwortlicher oder für die Verarbeitung Verantwortlicher ist die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet. Sind die Zwecke und Mittel dieser Verarbeitung durch das Unionsrecht oder das Recht der Mitgliedstaaten vorgegeben, so kann der Verantwortliche beziehungsweise können die bestimmten Kriterien seiner Benennung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten vorgesehen werden. 
 
@@ -65,7 +65,7 @@ _8\. Auftragsverarbeiter_ 
 
 Auftragsverarbeiter ist eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet. 
 
-_9\. Empf__ä__nger_ 
+_9\. Empfänger_ 
 
 Empfänger ist eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, der personenbezogene Daten offengelegt werden, unabhängig davon, ob es sich bei ihr um einen Dritten handelt oder nicht. Behörden, die im Rahmen eines bestimmten Untersuchungsauftrags nach dem Unionsrecht oder dem Recht der Mitgliedstaaten möglicherweise personenbezogene Daten erhalten, gelten jedoch nicht als Empfänger. 
 
@@ -83,7 +83,7 @@ _1\. Umfang der Verarbeitung personenbezogener Daten_ 
 
 Wir verarbeiten personenbezogene Daten unserer Nutzer grundsätzlich nur, soweit dies zur Bereitstellung einer funktionsfähigen Website sowie unserer Inhalte und Leistungen erforderlich ist. Die Verarbeitung personenbezogener Daten unserer Nutzer erfolgt regelmäßig nur nach Einwilligung des Nutzers. Eine Ausnahme gilt in solchen Fällen, in denen eine vorherige Einholung einer Einwilligung aus tatsächlichen Gründen nicht möglich ist und die Verarbeitung der Daten durch gesetzliche Vorschriften gestattet ist. 
 
-_2\. Rechtsgrundlage f__ü__r die Verarbeitung personenbezogener Daten_ 
+_2\. Rechtsgrundlage für die Verarbeitung personenbezogener Daten_ 
 
 Soweit wir für Verarbeitungsvorgänge personenbezogener Daten eine Einwilligung der betroffenen Person einholen, dient Art. 6 Abs. 1 lit. a EU-Datenschutzgrundverordnung (DSGVO) als Rechtsgrundlage. 
 
@@ -95,7 +95,7 @@ Für den Fall, dass lebenswichtige Interessen der betroffenen Person oder einer 
 
 Ist die Verarbeitung zur Wahrung eines berechtigten Interesses unseres Forschungszentrums oder eines Dritten erforderlich und überwiegen die Interessen, Grundrechte und Grundfreiheiten des Betroffenen das erstgenannte Interesse nicht, so dient Art. 6 Abs. 1 lit. f DSGVO als Rechtsgrundlage für die Verarbeitung. 
 
-_3\. Datenl__ö__schung und Speicherdauer_ 
+_3\. Datenlöschung und Speicherdauer_ 
 
 Die personenbezogenen Daten der betroffenen Person werden gelöscht oder gesperrt, sobald der Zweck der Speicherung entfällt. Eine Speicherung kann darüber hinaus erfolgen, wenn dies durch den europäischen oder nationalen Gesetzgeber in unionsrechtlichen Verordnungen, Gesetzen oder sonstigen Vorschriften, denen der Verantwortliche unterliegt, vorgesehen wurde. Eine Sperrung oder Löschung der Daten erfolgt auch dann, wenn eine durch die genannten Normen vorgeschriebene Speicherfrist abläuft, es sei denn, dass eine Erforderlichkeit zur weiteren Speicherung der Daten für einen Vertragsabschluss oder eine Vertragserfüllung besteht. 
 
@@ -131,7 +131,7 @@ Folgende Daten werden hierbei erhoben: 
 
 Die Daten werden ebenfalls in den Logfiles unseres Systems gespeichert. Eine Speicherung dieser Daten zusammen mit anderen personenbezogenen Daten des Nutzers findet nicht statt. 
 
-_b)_ _Rechtsgrundlage f__ü__r die Datenverarbeitung_ 
+_b)_ _Rechtsgrundlage für die Datenverarbeitung_ 
 
 Rechtsgrundlage für die vorübergehende Speicherung der Daten und der Logfiles ist Art. 6 Abs. 1 lit. f DSGVO. 
 
@@ -153,7 +153,7 @@ Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erh
 
 Im Falle der Speicherung der Daten in Logfiles ist dies nach spätestens sieben Tagen der Fall. Eine darüberhinausgehende Speicherung ist möglich. In diesem Fall werden die IP-Adressen der Nutzer gelöscht oder verfremdet, sodass eine Zuordnung des aufrufenden Clients nicht mehr möglich ist. 
 
-_e) Widerspruchs- und Beseitigungsm__ö__glichkeit_ 
+_e) Widerspruchs- und Beseitigungsmöglichkeit_ 
 
 Die Erfassung der Daten zur Bereitstellung der Website und die Speicherung der Daten in Logfiles ist für den Betrieb der Internetseite zwingend erforderlich. Es besteht folglich seitens des Nutzers keine Widerspruchsmöglichkeit. 
 
@@ -183,7 +183,7 @@ Beim Aufruf unserer Website werden die Nutzer durch einen Infobanner über die V
 
 Beim Aufruf unserer Website wird der Nutzer über die Verwendung von Cookies zu Analysezwecken informiert und seine Einwilligung zur Verarbeitung der in diesem Zusammenhang verwendeten personenbezogenen Daten eingeholt. In diesem Zusammenhang erfolgt auch ein Hinweis auf diese Datenschutzerklärung. 
 
-_b) Rechtsgrundlage f__ü__r die Datenverarbeitung_ 
+_b) Rechtsgrundlage für die Datenverarbeitung_ 
 
 i. Die Rechtsgrundlage für die Verarbeitung personenbezogener Daten unter Verwendung technisch notwendiger Cookies ist Art. 6 Abs. 1 lit. f DSGVO.  
 ii. Die Rechtsgrundlage für die Verarbeitung personenbezogener Daten unter Verwendung von Cookies zu Analysezwecken ist bei Vorliegen einer diesbezüglichen Einwilligung des Nutzers Art. 6 Abs. 1 lit. a DSGVO. 
@@ -200,7 +200,7 @@ Die Verwendung der Analyse-Cookies erfolgt zu dem Zweck, die Qualität unserer W
 
 In diesen Zwecken liegt auch unser berechtigtes Interesse in der Verarbeitung der personenbezogenen Daten nach Art. 6 Abs. 1 lit. f DSGVO. 
 
-_e) Dauer der Speicherung, Widerspruchs- und Beseitigungsm__ö__glichkeit_ 
+_e) Dauer der Speicherung, Widerspruchs- und Beseitigungsmöglichkeit_ 
 
 Die betroffene Person kann die Setzung von Cookies durch unsere Internetseite jederzeit mittels einer entsprechenden Einstellung des genutzten Internetbrowsers verhindern und damit der Setzung von Cookies dauerhaft widersprechen. Ferner können bereits gesetzte Cookies jederzeit über einen Internetbrowser oder andere Softwareprogramme gelöscht werden. Dies ist in allen gängigen Internetbrowsern möglich. Deaktiviert die betroffene Person die Setzung von Cookies in dem genutzten Internetbrowser, sind unter Umständen nicht alle Funktionen unserer Internetseite vollumfänglich nutzbar. 
 
@@ -228,7 +228,7 @@ Alternativ ist eine Kontaktaufnahme über die bereitgestellte E-Mail-Adresse mö
 
 Es erfolgt in diesem Zusammenhang keine Weitergabe der Daten an Dritte. Die Daten werden ausschließlich für die Verarbeitung der Konversation verwendet. 
 
-_b)_ _Rechtsgrundlage f__ü__r die Datenverarbeitung_ 
+_b)_ _Rechtsgrundlage für die Datenverarbeitung_ 
 
 Rechtsgrundlage für die Verarbeitung der Daten ist bei Vorliegen einer Einwilligung des Nutzers Art. 6 Abs. 1 lit. a DSGVO. 
 
@@ -246,7 +246,7 @@ Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erh
 
 Die während des Absendevorgangs zusätzlich erhobenen personenbezogenen Daten werden spätestens nach einer Frist von sieben Tagen gelöscht. 
 
-_e)_ _Widerspruchs- und Beseitigungsm__ö__glichkeit_ 
+_e)_ _Widerspruchs- und Beseitigungsmöglichkeit_ 
 
 Der Nutzer hat jederzeit die Möglichkeit, seine Einwilligung zur Verarbeitung der personenbezogenen Daten zu widerrufen. Nimmt der Nutzer per E-Mail an datenschutz@dlr.de Kontakt mit uns auf, so kann er der Speicherung seiner personenbezogenen Daten jederzeit widersprechen. In einem solchen Fall kann die Konversation nicht fortgeführt werden. 
 
@@ -280,7 +280,7 @@ Für die Verarbeitung der Daten wird im Rahmen des Anmeldevorgangs Ihre Einwilli
 
 Es erfolgt im Zusammenhang mit der Datenverarbeitung für den Versand von Newslettern keine Weitergabe der Daten an Dritte. Die Daten werden ausschließlich für den Versand des Newsletters verwendet. 
 
-_b) Rechtsgrundlage f__ü__r die Datenverarbeitung_ 
+_b) Rechtsgrundlage für die Datenverarbeitung_ 
 
 Der Newsletter-Versand erfolgt aufgrund der Anmeldung des Nutzers auf der Website: Rechtsgrundlage für die Verarbeitung der Daten nach Anmeldung zum Newsletters durch den Nutzer ist bei Vorliegen einer Einwilligung des Nutzers Art. 6 Abs. 1 lit. a DSGVO. 
 
@@ -292,7 +292,7 @@ _d)_ _Dauer der Speicherung_ 
 
 Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Die E-Mail-Adresse sowie Vor- und Zunamen des Nutzers wird demnach solange gespeichert, wie das Abonnement des Newsletters aktiv ist. 
 
-_e) Widerspruchs- und Beseitigungsm__ö__glichkeit_ 
+_e) Widerspruchs- und Beseitigungsmöglichkeit_ 
 
 Das Abonnement des Newsletters kann durch den betroffenen Nutzer jederzeit gekündigt werden. Zu diesem Zweck findet sich in jedem Newsletter ein entsprechender Link. 
 
@@ -343,7 +343,7 @@ _b)_ _Recht auf Berichtigung_ 
 
 Sie als die betroffene Person haben das Recht, von dem Verantwortlichen unverzüglich die Berichtigung Sie betreffender unrichtiger personenbezogener Daten zu verlangen. Unter Berücksichtigung der Zwecke der Verarbeitung haben Sie das Recht, die Vervollständigung unvollständiger personenbezogener Daten - auch mittels einer ergänzenden Erklärung - zu verlangen. 
 
-_c)_ _Recht auf Einschr__ä__nkung der Verarbeitung_ 
+_c)_ _Recht auf Einschränkung der Verarbeitung_ 
 
 Unter den folgenden Voraussetzungen können Sie die Einschränkung der Verarbeitung der Sie betreffenden personenbezogenen Daten verlangen: 
 
@@ -357,7 +357,7 @@ Wurde die Verarbeitung der Sie betreffenden personenbezogenen Daten eingeschrän
 
 Wurde die Einschränkung der Verarbeitung nach den o.g. Voraussetzungen eingeschränkt, werden Sie von dem Verantwortlichen unterrichtet,  bevor die Einschränkung aufgehoben wird. 
 
-_d)_ _Recht auf L__ö__schung_ 
+_d)_ _Recht auf Löschung_ 
 
 Löschungspflicht 
 
@@ -390,7 +390,7 @@ Haben Sie das Recht auf Berichtigung, Löschung oder Einschränkung der Verarbei
 
 Ihnen steht gegenüber dem Verantwortlichen das Recht zu, über diese Empfänger unterrichtet zu werden. 
 
-_f)_ _Recht auf Daten__ü__bertragbarkeit_ 
+_f)_ _Recht auf Datenübertragbarkeit_ 
 
 Sie haben das Recht, die Sie betreffenden personenbezogenen Daten, die Sie dem Verantwortlichen bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Außerdem haben Sie das Recht diese Daten einem anderen Verantwortlichen ohne Behinderung durch den Verantwortlichen, dem die personenbezogenen Daten bereitgestellt wurden, zu übermitteln, sofern 
 
@@ -417,11 +417,11 @@ Sie als die betroffene Person haben das Recht, aus Gründen, die sich aus ihrer 
 
 Möchten Sie von Ihrem Widerrufs- oder Widerspruchsrecht Gebrauch machen, genügt eine E-Mail an datenschutz@dlr.de 
 
-_h)_ _Recht auf Widerruf erteilter Einwilligungen gem__äß_ _Art. 7 Abs. 3 DSGVO_ 
+_h)_ _Recht auf Widerruf erteilter Einwilligungen gemäß_ _Art. 7 Abs. 3 DSGVO_ 
 
 Sie haben das Recht, eine einmal erteilte Einwilligung in die Verarbeitung von Daten jederzeit mit Wirkung für die Zukunft zu widerrufen. Im Falle des Widerrufs werden wir die betroffenen Daten unverzüglich löschen, sofern eine weitere Verarbeitung nicht auf eine Rechtsgrundlage zur einwilligungslosen Verarbeitung gestützt werden kann. Durch den Widerruf der Einwilligung wird die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt. 
 
-_i)_ _Automatisierte Entscheidung im Einzelfall einschlie__ß__lich Profiling_ 
+_i)_ _Automatisierte Entscheidung im Einzelfall einschließlich Profiling_ 
 
 Sie haben das Recht, nicht einer ausschließlich auf einer automatisierten Verarbeitung – einschließlich Profiling – beruhenden Entscheidung unterworfen zu werden, die Ihnen gegenüber rechtliche Wirkung entfaltet oder Sie in ähnlicher Weise erheblich beeinträchtigt. 
 
@@ -435,7 +435,7 @@ Allerdings dürfen diese Entscheidungen nicht auf besonderen Kategorien personen
 
 Hinsichtlich der in (1) und (3) genannten Fälle trifft der Verantwortliche angemessene Maßnahmen, um die Rechte und Freiheiten sowie Ihre berechtigten Interessen zu wahren, wozu mindestens das Recht auf Erwirkung des Eingreifens einer Person seitens des Verantwortlichen, auf Darlegung des eigenen Standpunkts und auf Anfechtung der Entscheidung gehört. 
 
-_j)_ _Recht auf Beschwerde bei einer Aufsichtsbeh__ö__rde_ 
+_j)_ _Recht auf Beschwerde bei einer Aufsichtsbehörde_ 
 
 Unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs steht Ihnen das Recht auf Beschwerde bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres Aufenthaltsorts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, zu, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten gegen die DSGVO verstößt. 
 
