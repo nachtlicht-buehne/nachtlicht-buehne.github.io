@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Nachtlicht-BüHNE"
+title:  "Startseite"
 permalink: /
 ---
 Nachtlicht-BüHNE ist ein Projekt der deutschen Helmholtz-Gemeinschaft, das Freiwillige mit Helmholtz-Forscher\*innen zusammenbringt, um neue Erkenntnisse zu gewinnen. Der Projektname ist eine Abkürzung und steht für „**Bü**rger-**H**elmholtz-**Ne**tzwerk für die Erforschung nächtlicher Lichtphänomene“. Wenn Menschen, die nicht dafür bezahlt werden, zur Wissenschaft beitragen, nennt man das Bürgerwissenschaft (Englisch auch „Citizen Science“). Was unser Projekt in diesem Kontext besonders macht, ist, dass wir unsere Bürgerwissenschaftler*innen nicht nur bitten, Daten zu erheben, sondern dass sie in jeder Phase des Experiments beteiligt waren – von der Planung über die Datenerfassung bis hin zur Datenanalyse. Wir nennen das Co-Design.
