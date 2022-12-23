@@ -10,7 +10,7 @@ _Click here for [English](https://nachtlicht-buehne.de/startseite/nightlights/)_
 
 Wir haben zwar nicht die Möglichkeit, in diesem Herbst größere [Zähl-Kampagnen](#localcampaigns) durchzuführen, aber unsere [Nachtlichter App](#Info) ist das perfekte Instrument für Bürgerwissenschaftler\*innen, um die veränderte Beleuchtung selbständig zu dokumentieren. Jede/r ist willkommen mitzumachen. Hier sind ein paar Hinweise, die Euch dabei helfen können.
 
-**Erstens**: Wählt eine Straße, deren Beleuchtung von dem Gesetz betroffen ist (z. B. Fußgängerzonen oder Einkaufsviertel mit Leuchtreklamen und beleuchteten Fassaden). Wenn bereits ein _Transekt_ (markierte Linie von einer Straßenecke zur anderen) in der App vorhanden ist, verwendet bitte diesen - einfach anklicken. Wenn Ihr einen eigenen Abschnitt definieren wollt, lest bitte [die Anweisungen zu unserer letzten Kampagne](https://nachtlicht-buehne.de/wp-content/uploads/2022/03/DE_Nachtlichter_Zeitkampagne.pdf).
+**Erstens**: Wählt eine Straße, deren Beleuchtung von dem Gesetz betroffen ist (z. B. Fußgängerzonen oder Einkaufsviertel mit Leuchtreklamen und beleuchteten Fassaden). Wenn bereits ein _Transekt_ (markierte Linie von einer Straßenecke zur anderen) in der App vorhanden ist, verwendet bitte diesen - einfach anklicken. Wenn Ihr einen eigenen Abschnitt definieren wollt, lest bitte [die Anweisungen zu unserer letzten Kampagne](/assets/docs/DE_Nachtlichter_Zeitkampagne.pdf).
 
 **Zweitens**: Begeht die Straßen nach Einbruch der Dunkelheit, wenn die Lichter schon/noch brennen und _erneut_, wenn die Abschaltungen ab 22 Uhr in Kraft treten. Wir empfehlen, die erste Erhebung vor 21 Uhr abzuschließen und die zweite Erhebung frühestens nach 22:30 Uhr zu beginnen.
 
@@ -51,7 +51,7 @@ Das Nachtlichter-Team trifft sich regelmäßig zur Zusammenarbeit. Wenn du über
 ### Die wichtigsten Links zur App
 
 - [Nachtlichter App](https://lichter.nachtlicht-buehne.de/)
-- [Online Tutorial](https://nachtlicht-buehne.de/wp-content/uploads/2021/08/nl_tutorial_de/tutorial.html)
+- [Online Tutorial](/assets/docs/nl_tutorial_de/tutorial.html)
 - [Video: Kampagnen und App-Einführung](https://youtu.be/kvwuCo4zsTU)
 - [Häufige Fragen - FAQ](https://docs.google.com/document/d/1Iaj1G3uAXcaUdEQEBfNktKA9AV2gCoMHwh-mUMZ8Mtc/edit#)
 - [Infoblatt zur "eigenen Nachtlichter Kampagne"](https://nachtlicht-buehne.de/wp-content/uploads/2022/03/DE_mini_Nachtlichter_campaign.pdf)
