@@ -7,7 +7,7 @@ Meteore, auch Sternschnuppen genannt, sind Staubteilchen die in der Hochatmosph�
 
 Diese Web-App ist hier verfügbar: [https://meteor.nachtlicht-buehne.de](https://meteor.nachtlicht-buehne.de)
 
-**Ziele**
+### Ziele
 
 - Wir untersuchen die Verteilung von cm-großen oder größeren Objekten anhand der Feuerkugel-Meldungen und vergleichen sie mit Ergebnissen aus Kamera-Feuerkugelnetzen.
 - Wir veröffentlichen Informationen an Augenzeugen über Feuerball-Ereignisse in nahezu Echtzeit und unterstützen die Auffindung und Bergung von möglichen Meteoriten.
@@ -15,7 +15,7 @@ Diese Web-App ist hier verfügbar: [https://meteor.nachtlicht-buehne.de](https:/
 
 Die Feuerkugel-App ist seit Oktober 2021 online. Im Jahr 2022 meldeten Bürger:innen über 1200 visuelle Beobachtungen heller Meteore (Feuerkugeln) zu  etwa 300 Feuerkugeln.
 
-**Mitmachen**
+### Mitmachen
 Wir treffen uns regelmäßig zur Zusammenarbeit. Wenn du dich über unsere Aktivitäten informieren möchtest, abonniere unsere [Mailingliste](https://www.listserv.dfn.de/sympa/subscribe/nachtlicht-buehne-meteor).
 
 Wir freuen uns über dein Feedback!

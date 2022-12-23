@@ -3,12 +3,14 @@ title: "Nachtlichter"
 layout: page
 permalink: /nachtlichter
 ---
+<!---
+Currently no english available
 
 _Click here for [English](https://nachtlicht-buehne.de/startseite/nightlights/)_
+--->
+[Wir laden euch ein, wieder Lichter zu zählen!](#wir-zählen-lichter-weil-die-nacht-zählt) Seit Anfang September gilt in Deutschland das Gesetz zur Energieeinsparung. Diese sogenannte [Kurzfrist-enenergieversorgungssicherungsmaßnahmenverordnung](https://www.gesetze-im-internet.de/ensikumav/BJNR144600022.html) schränkt unter anderem die Verwendung von Fassadenbeleuchtung und Werbung ein. Da das Gesetz sehr neu ist, hatten Unternehmen und Behörden möglicherweise noch keine Zeit, ihre Beleuchtung anzupassen. Für uns wäre es interessant zu sehen, wie sich die Beleuchtungspraxis in den nächsten Monaten verändert.
 
-[Wir laden euch ein, wieder Lichter zu zählen!](#warumwirzaehlen) Seit Anfang September gilt in Deutschland das Gesetz zur Energieeinsparung. Diese sogenannte [Kurzfrist-enenergieversorgungssicherungsmaßnahmenverordnung](https://www.gesetze-im-internet.de/ensikumav/BJNR144600022.html) schränkt unter anderem die Verwendung von Fassadenbeleuchtung und Werbung ein. Da das Gesetz sehr neu ist, hatten Unternehmen und Behörden möglicherweise noch keine Zeit, ihre Beleuchtung anzupassen. Für uns wäre es interessant zu sehen, wie sich die Beleuchtungspraxis in den nächsten Monaten verändert.
-
-Wir haben zwar nicht die Möglichkeit, in diesem Herbst größere [Zähl-Kampagnen](#localcampaigns) durchzuführen, aber unsere [Nachtlichter App](#Info) ist das perfekte Instrument für Bürgerwissenschaftler\*innen, um die veränderte Beleuchtung selbständig zu dokumentieren. Jede/r ist willkommen mitzumachen. Hier sind ein paar Hinweise, die Euch dabei helfen können.
+Wir haben zwar nicht die Möglichkeit, in diesem Herbst größere [Zähl-Kampagnen](#nachtlichter-kampagnen) durchzuführen, aber unsere [Nachtlichter App](#die-wichtigsten-links-zur-app) ist das perfekte Instrument für Bürgerwissenschaftler\*innen, um die veränderte Beleuchtung selbständig zu dokumentieren. Jede/r ist willkommen mitzumachen. Hier sind ein paar Hinweise, die Euch dabei helfen können.
 
 **Erstens**: Wählt eine Straße, deren Beleuchtung von dem Gesetz betroffen ist (z. B. Fußgängerzonen oder Einkaufsviertel mit Leuchtreklamen und beleuchteten Fassaden). Wenn bereits ein _Transekt_ (markierte Linie von einer Straßenecke zur anderen) in der App vorhanden ist, verwendet bitte diesen - einfach anklicken. Wenn Ihr einen eigenen Abschnitt definieren wollt, lest bitte [die Anweisungen zu unserer letzten Kampagne](/assets/docs/DE_Nachtlichter_Zeitkampagne.pdf).
 
@@ -22,7 +24,7 @@ Und das war's! Wenn viele Daten gesammelt werden (z.B. 50 Transekten oder mehr),
 
 Satellitenaufnahmen von der Erde bei Nacht zeigen eine weltweite Zunahme nächtlicher Lichtemissionen und Lichtverschmutzung – auch in Deutschland. Verlässliche Daten zu den Ursachen, d.h. den öffentlichen, gewerblichen und privaten Lichtquellen am Boden, fehlen aber noch weitgehend und lassen sich auch nicht per Satellit ermitteln. Darum haben wir in einem bürgerwissenschaftlichen Co-Design Prozess [eine App entwickelt](https://lichter.nachtlicht-buehne.de/), mit der wir künstliche Lichtquellen entlang von Straßen zählen und kartieren können – vom beleuchteten Fenster und Werbeschild bis zur Straßenlaterne und Ampelanlage. 
 
-Von Ende August bis Mitte November 2021 waren **über 200 Bürgerwissenschaftler:innen** mit der [Nachtlichter App](https://lichter.nachtlicht-buehne.de/) auf nächtlichen Straßen unterwegs. Dank dieser wundervollen Unterstützung konnten wir unerwartet viele **[lokale Kampagnen](#localcampaigns)** erfolgreich beenden. In weniger als drei Monaten haben wir so fast **eine Viertelmillion Lichter erfasst und nach Art, Helligkeit und Farbe klassifiziert**! Die Fläche der zusammenhängenden Zählgebiete summiert sich auf insgesamt 22 Quadratkilometer und die Teilnehmenden haben **beim Lichterzählen eine Gesamtstrecke von 645 km** zurückgelegt.
+Von Ende August bis Mitte November 2021 waren **über 200 Bürgerwissenschaftler:innen** mit der [Nachtlichter App](https://lichter.nachtlicht-buehne.de/) auf nächtlichen Straßen unterwegs. Dank dieser wundervollen Unterstützung konnten wir unerwartet viele **[lokale Kampagnen](#nachtlichter-kampagnen)** erfolgreich beenden. In weniger als drei Monaten haben wir so fast **eine Viertelmillion Lichter erfasst und nach Art, Helligkeit und Farbe klassifiziert**! Die Fläche der zusammenhängenden Zählgebiete summiert sich auf insgesamt 22 Quadratkilometer und die Teilnehmenden haben **beim Lichterzählen eine Gesamtstrecke von 645 km** zurückgelegt.
 
 In der Auswertungsphase sind die Teilnehmenden nun wieder gefragt und beteiligen sich an der Datenanalyse sowie an den wissenschaftlichen Publikationen. **Erste Ergebnisse werden ab Mitte 2022** erwartet. Das gemeinsame Ziel des Nachtlichter-Netzwerks ist es, Bewusstsein für nachhaltige Beleuchtung zu wecken. 
 
@@ -46,7 +48,7 @@ Die wissenschaftlichen Hintergründe des Projekts erläutern wir in einem [Webin
 
 Im Spätsommer und Herbst 2021 fanden Nachtlichter-Kampagnen auf Initiative lokaler Organisator:innen in zahlreichen deutschen Städten und Gemeinden statt, insbesondere Achtenwehr, Berlin, Bochum, Borkheide, Dresden, Erlangen, Erfurt, Freising, Fulda, Herzogenaurach, Köln, Leipzig, Leverkusen, Potsdam, Preußisch-Oldendorf, Rosenheim, Trier, Wittenberg und Würzburg. Darüber haben Mitforschende auch an anderen Orten der Welt Lichter gezählt, insbesondere in Kanada, Frankreich, Indonesien, Italien, Irland, Serbien, Spanien, der Türkei und den USA.
 
-Das Nachtlichter-Team trifft sich regelmäßig zur Zusammenarbeit. Wenn du über unsere Aktivitäten auf dem Laufenden bleiben möchtest, abonniere unsere [Mailingliste](https://www.listserv.dfn.de/sympa/subscribe/nachtlicht-buehne) oder registriere dich in der [Nachtlichter-App](https://lichter.nachtlicht-buehne.de/), um eigenständig Lichter zu zählen. Um den Einstieg zu erleichtern, findest du hier eine [kurze App-Einführung](https://youtu.be/kvwuCo4zsTU) (Video). Falls du Problem mit der App-Nutzung hast, helfen unsere Antworten auf ["häufige Fragen"](#FQA-de) meistens weiter.
+Das Nachtlichter-Team trifft sich regelmäßig zur Zusammenarbeit. Wenn du über unsere Aktivitäten auf dem Laufenden bleiben möchtest, abonniere unsere [Mailingliste](https://www.listserv.dfn.de/sympa/subscribe/nachtlicht-buehne) oder registriere dich in der [Nachtlichter-App](https://lichter.nachtlicht-buehne.de/), um eigenständig Lichter zu zählen. Um den Einstieg zu erleichtern, findest du hier eine [kurze App-Einführung](https://youtu.be/kvwuCo4zsTU) (Video). Falls du Problem mit der App-Nutzung hast, helfen unsere Antworten auf ["häufige Fragen"](#häufige-fragen-zur-app) meistens weiter.
 
 ### Die wichtigsten Links zur App
 
