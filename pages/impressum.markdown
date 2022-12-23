@@ -4,35 +4,51 @@ title:  "Impressum"
 permalink: /impressum
 ---
 
-**Impressum gem. § 5 Telemediengesetz und § 18 Abs. 2 Medienstaatsvertrag**
+**Legal information / Provider Identification**\
+Legal information /Provider Identification according to § 5 TMG (Tele Media Act) and § 55 RStV (German Interstate Treaty on Broadcasting)
 
-Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)  
-Linder Höhe  
-51147 Köln
+**Provider**\
+The provider of the internet presence [https://nachtlicht-buehne.de/](https://nachtlicht-buehne.de/) is the Helmholtz Centre Potsdam German Research Centre for Geosciences.
 
-Telefon: +49 2203 601-0  
-Telefax: +49 2203 67310  
-E-Mail: contact-dlr \[at\] dlr.de  
-Website: [https://www.dlr.de/](https://www.dlr.de/)
+The website is intended as the main information communication platform for the Nachtlicht-BüHNE project (Bürger-Helmholtz-Netzwerk für die Erforschung nächtlicher Lichtphänomene). Within the project, citizen scientists work with Helmholtz researchers to design, test, and operate two apps for acquiring data, and also to analyze and publish the data together. The current project is funded as part of the BMBF Wissenschaftsjahr 2023 – Unser Universum.
 
-Gesetzlicher Vertreter des DLR ist der Vorstand, bestehend aus Prof. Dr.-Ing. Anke Kaysser-Pyzalla (Vorsitzende des Vorstands), Klaus Hamacher (Stellvertretender Vorsitzender des Vorstands), Prof. Dr.-Ing. Karsten Lemmer und Dr.-Ing. Walther Pelzer.
+**Address**\
+Helmholtz Centre Potsdam German Research Centre for Geosciences - GFZ \
+Telegrafenberg \
+14473 Potsdam, Germany \
+Tel.: +49 331 288 0 \
+Website: [www.gfz-potsdam.de](www.gfz-potsdam.de)
 
-**Sitz des Vorstands**  
-Deutsches Zentrum für Luft- und Raumfahrt (DLR), Linder Höhe, 51147 Köln.
+**Legal form**\
+The Helmholtz Centre Potsdam German Research Centre for Geosciences - GFZ is a Public Law Foundation. [The GFZ is member of the Helmholtz-Gemeinschaft Deutscher Forschungszentren e.V. (Helmholtz Association of German Research Centres).](https://www.helmholtz.de/)
 
-Der Vorstand kann auch durch von ihm ermächtigte Personen vertreten werden. Auskünfte über den Umfang der Ermächtigung erteilt die Leitung der Abteilung Allgemeine Rechtsangelegenheiten des DLR, Linder Höhe, 51147 Köln.
+**Authorized representatives**\
+The GFZ is legally represented by Prof. Dr. Susanne Buiter (Scientific Executive Director and Spokesperson of the Executive Board) and Dr. Stefan Schwartze (Administrative Executive Director).
 
-**Registergericht / Registernummer**  
-Amtsgericht Bonn, VR 2780
+**Value Added Tax ID**\
+VAT Identification Number according to § 27a VAT Tax Act: DE138407750
 
-**Umsatzsteuer-Identifikationsnummer**  
-DE 121965658
+**Editorial Staff**\
+Responsible editor for the contents of this internet presence with regard to media law is Christopher Kyba \
+Phone: +49 331 288- 28973 \
+EMail: [kyba@gfz-potsdam.de](mailto:kyba@gfz-potsdam.de)
 
-**Verantwortliche/r nach § 18 Abs. 2 Medienstaatsvertrag**  
-Dr. Friederike Klan  
-Mälzerstraße 3  
-07745 Jena
+**Technical Realization and support**\
+Responsible for the technical implementation is Christopher Kyba \
+E-Mail: [kyba@gfz-potsdam.de](mailto:kyba@gfz-potsdam.de)
 
-**Haftungshinweis**
+**Copyright**\
+The texts and images on this website are protected by copyright. Copying these files or printing the publications is only permitted for private use.
 
-Das DLR ist als Inhaltsanbieter nach § 7 Abs. 1 Telemediengesetz für die „eigenen Inhalte“, die auf [nachtlicht-buehne.de](https://nachtlicht-buehne.de) zur Nutzung bereitgehalten werden, nach den allgemeinen Gesetzen verantwortlich. Von diesen eigenen Inhalten sind Querverweise („Links“) auf die von anderen Anbietern bereitgehaltenen Inhalte zu unterscheiden. Durch den Querverweis hält das DLR insofern „fremde Inhalte“ zur Nutzung bereit, die durch den Hinweis „\[extern\]“oder den Link entsprechend gekennzeichnet sind. Diese fremden Inhalte wurden bei der erstmaligen Link-Setzung daraufhin überprüft, ob durch sie eine mögliche zivilrechtliche oder strafrechtliche Verantwortlichkeit ausgelöst wird. Es ist jedoch nicht auszuschließen, dass die Inhalte im Nachhinein von den jeweiligen Anbietern verändert werden. Das DLR überprüft die Inhalte, auf die es in seinem Angebot verweist, nicht ständig auf Veränderungen, die eine Verantwortlichkeit neu begründen könnten. Sollten Sie der Ansicht sein, dass die verlinkten externen Seiten gegen geltendes Recht verstoßen oder sonst unangemessene Inhalte haben, so teilen Sie uns dies bitte mit.
+All other uses, such as duplication, alteration or use of these graphics, recordings, video sequences or texts on this websites in further electronic or printed publications for non-commercial and commercial purposes are not permitted without the explicit consent of the copyright holder - even if they are not labelled as a copyright protected document.
+
+Content, which is published under the Creative Commons License may be used only in accordance with the specified license conditions. 
+
+**Liability notice**\
+The editorial staff controls and updates the available information on these websites at regular intervals. Despite all care, information, data or links may have changed in the meantime. There is no liability or guarantee for the currentness, accuracy and completeness of the information provided.
+
+The same applies to all other websites, which are referred to by hyperlink. There is not responsibility for the content of the websites that are reached as a result of such a connection. Instead the relevant provider is always responsible for the contents of the linked pages.
+
+In establishing the initial link, the editorial staff has reviewed the relevant external content in order to determine that they were free of illegal content at the time of linking.
+
+If you detect errors in content or technology, please let us know.
