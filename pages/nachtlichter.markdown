@@ -3,11 +3,9 @@ title: "Nachtlichter"
 layout: page
 permalink: /nachtlichter
 ---
-<!---
-Currently no english available
 
-_Click here for [English](https://nachtlicht-buehne.de/startseite/nightlights/)_
---->
+_Click here for [English](/nightlights/)_
+
 [Wir laden euch ein, wieder Lichter zu zählen!](#wir-zählen-lichter-weil-die-nacht-zählt) Seit Anfang September gilt in Deutschland das Gesetz zur Energieeinsparung. Diese sogenannte [Kurzfrist-enenergieversorgungssicherungsmaßnahmenverordnung](https://www.gesetze-im-internet.de/ensikumav/BJNR144600022.html) schränkt unter anderem die Verwendung von Fassadenbeleuchtung und Werbung ein. Da das Gesetz sehr neu ist, hatten Unternehmen und Behörden möglicherweise noch keine Zeit, ihre Beleuchtung anzupassen. Für uns wäre es interessant zu sehen, wie sich die Beleuchtungspraxis in den nächsten Monaten verändert.
 
 Wir haben zwar nicht die Möglichkeit, in diesem Herbst größere [Zähl-Kampagnen](#nachtlichter-kampagnen) durchzuführen, aber unsere [Nachtlichter App](#die-wichtigsten-links-zur-app) ist das perfekte Instrument für Bürgerwissenschaftler\*innen, um die veränderte Beleuchtung selbständig zu dokumentieren. Jede/r ist willkommen mitzumachen. Hier sind ein paar Hinweise, die Euch dabei helfen können.
