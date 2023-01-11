@@ -8,6 +8,10 @@
             <img src="assets/img/wissenschaftsjahr-w250.png" width="250px" height="159px" alt="Logo Wissenschaftsjahr"/>
         </div>
         <div class="footer-col">
+          gefördert durch <br />
+          <img src="assets/img/bmbf_logo.svg" width="250px" height="159px" alt="Logo BMBF"/>         
+      </div>
+        <div class="footer-col">
             {%- for path in site.footer_pages -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
