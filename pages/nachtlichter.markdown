@@ -4,7 +4,7 @@ layout: page
 permalink: /nachtlichter
 ---
 
-_Click here for [English](/nightlights/)_
+_Click here for [English](/nightlights)_
 
 [Wir laden euch ein, wieder Lichter zu zählen!](#wir-zählen-lichter-weil-die-nacht-zählt) Seit Anfang September gilt in Deutschland das Gesetz zur Energieeinsparung. Diese sogenannte [Kurzfrist-enenergieversorgungssicherungsmaßnahmenverordnung](https://www.gesetze-im-internet.de/ensikumav/BJNR144600022.html) schränkt unter anderem die Verwendung von Fassadenbeleuchtung und Werbung ein. Da das Gesetz sehr neu ist, hatten Unternehmen und Behörden möglicherweise noch keine Zeit, ihre Beleuchtung anzupassen. Für uns wäre es interessant zu sehen, wie sich die Beleuchtungspraxis in den nächsten Monaten verändert.
 
