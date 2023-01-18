@@ -1,0 +1,131 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+@font-face {
+    font-family: barlow;
+    src: url(/assets/fonts/Barlow-Regular.ttf);
+}
+
+.site-nav input:checked ~ .trigger {
+    @media screen and (max-width: 600px) {
+        height: 100vh;
+        width: 100vw;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #fdfdfd;
+        transform: translateY(-53px);
+        padding-top: 80px;
+        z-index: 2;
+        position: relative;
+    }
+}
+
+
+
+.site-nav .page-link {
+    @media screen and (max-width: 600px) {
+        margin: 0;
+
+    }
+}
+
+.site-nav {
+    @media screen and (max-width: 600px) {
+        text-align: center;
+        top: 0;
+        right: 0;
+        border: none;
+        background-color: #ffffff00;
+        border-radius: 0px;
+        
+    }
+}
+
+.menu-box {
+    @media screen and (max-width: 600px) {
+        width: 90%;
+    }
+    background-color: black;
+    padding: 5px;
+    margin: 5px;
+    display: inline-block;
+    line-height: 30px;
+}
+
+.site-nav label[for="nav-trigger"] {
+    @media screen and (max-width: 600px) {
+        margin-right: 9px;
+        margin-top: 15px;
+        background-color: #fdfdfd;
+        position: relative;
+        border: 1px solid #e8e8e8;
+        border-radius: 5px;
+        z-index: 3;
+    }
+}
+
+.copyright-notice {
+    position: absolute;
+    right: 4px;
+    bottom: 4px;
+    color: white;
+
+}
+
+.site-header .wrapper {
+    position: relative;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.048)), url(/assets/img/eso1031b_crop.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu-box-link {
+    font-size: 18px !important;
+     color: white !important;
+      text-transform: uppercase;
+       font-family: barlow
+}
+
+.header-logo {
+    padding-top: 10px; padding-bottom: 10px
+}
+
+.site-header {
+    border: none;
+}
+
+.site-footer {
+    background-color: #62b9e9;
+    border-top: none
+}
+
+footer .page-link {
+    color: black
+}
+
+.footer-col {
+    color: black
+}
+
+.silhouette-background {
+    background-image: url(/assets/img/silhouetten_familie_compressed.svg);
+    background-position: bottom; background-repeat: no-repeat;
+    background-size: auto 120px;
+    padding-bottom: 0px;
+}
+
+.silhouette-spacer {
+    width: 100%;
+    height: 45px;
+    background-color: #62b9e9;
+    margin-top: 120px;
+}
+
