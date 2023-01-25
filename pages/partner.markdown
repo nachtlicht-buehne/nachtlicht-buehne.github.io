@@ -8,7 +8,7 @@ Besonderer Erwähnung bedarf unser Team aus Bürgerwissenschaftler:innen, welche
 
 Ansprechpartnerin Feuerkugeln:
 
-- Dr. Friederike Klan ([nachtlicht-buehne-feuerkugel@gmx.de](mailto:nachtlicht-buehne-feuerkugel@gmx.de.))
+- Dr. Friederike Klan ([friederike.klan@dlr.de](mailto:friederike.klan@dlr.de)) – Datenexpertin, Deutsches Zentrum für Luft und Raumfahrt e.V. (DLR)
 
 - Prof. Dr. Jürgen Oberst ([juergen.oberst@tu-berlin.de](mailto:juergen.oberst@tu-berlin.de)) - Feuerkugelexperte, Technische Universität Berlin
 
