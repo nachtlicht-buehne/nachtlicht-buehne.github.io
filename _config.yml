@@ -33,6 +33,7 @@ plugins:
 header_pages:
   - pages/feuerkugeln.markdown
   - pages/nachtlichter.markdown
+  - pages/universeontour.markdown
   - pages/partner.markdown
 
 
