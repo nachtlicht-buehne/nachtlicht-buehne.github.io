@@ -4,13 +4,13 @@ layout: page
 permalink: /nightlights
 ---
 
+#### **We count lights, because the night counts**
+Satellite images of the earth at night show a worldwide increase in nocturnal light emissions and light pollution, including in Germany. Unfortunately, we don’t presently know what types of lights (e.g. streetlights, advertising) are driving this increase, or for that matter, how many of each different type of light there are. Our group of citizen scientists and researchers have therefore developed an app to count light sources along street segments – from illuminated windows and advertising signs to street lamps and traffic lights.
+
 #### **Call for action!**
 As a part of [Science Year 2023 – Our Universe](https://www.wissenschaftsjahr.de/2023/english), we are inviting you to count lights again this fall! A twist this year is that in addition to large counting campaigns, it will be possible to take part by surveying a single street!
 
-Starting from September 1, you are invited to create a record of lighting using the [Nightlights App](https://lichter.nachtlicht-buehne.de/). For our special “time of night” campaign this year, we want to find out how the distribution and use of lights changes during the course of the evening and night. For example, how many businesses turn off their signs late at night, and how does this vary with geography? For this, we need people to survey streets at least twice. You can do this by surveying a single street at two different times, but you are also welcome to do more. The more streets you survey, and the more often you survey them, the better we will understand the times and kinds of lights that turn off. We are also looking for partners to [organize and run larger local campaigns](https://nachtlicht-buehne.de/assets/docs/EN_mini_Nachtlichter_campaign.pdf). If that sounds like something you would enjoy, please [contact us](mailto:nachtlichter@gfz-potsdam.de)!
-
-#### **We count lights, because the night counts**
-Satellite images of the earth at night show a worldwide increase in nocturnal light emissions and light pollution, including in Germany. Unfortunately, we don’t presently know what types of lights (e.g. streetlights, advertising) are driving this increase, or for that matter, how many of each different type of light there are. Our group of citizen scientists and researchers have therefore developed an app to count light sources along street segments – from illuminated windows and advertising signs to street lamps and traffic lights.
+Starting from September 1, you are invited to create a record of lighting using the [Nightlights App](https://lichter.nachtlicht-buehne.de/). For our special “Time of Night” campaign this year, we want to find out how the distribution and use of lights changes during the course of the evening and night. For example, how many businesses turn off their signs late at night, and how does this vary with geography? For this, we need people to survey streets at least twice. You can do this by surveying a single street at two different times, but you are also welcome to do more. The more streets you survey, and the more often you survey them, the better we will understand the times and kinds of lights that turn off. We are also looking for partners to [organize and run larger local campaigns](https://nachtlicht-buehne.de/assets/docs/EN_mini_Nachtlichter_campaign.pdf). If that sounds like something you would enjoy, please [contact us](mailto:nachtlichter@gfz-potsdam.de)!
 
 #### **How to participate**
 After completing our [online tutorial](https://nachtlicht-buehne.de/assets/docs/nl_tutorial_en/tutorial.html) and installing the [Nightlights App](https://lichter.nachtlicht-buehne.de/) on your phone, you can choose a transect using the instructions from our last campaign. Detailed information will follow, so please check back for the final information this fall. If a lot of people help to collect data, we could provide valuable information to the Bundestag and local mayors and chambers of commerce regarding lighting and energy practice in Germany. If you live in another country, feel free to use Nightlights App as well.
@@ -30,7 +30,9 @@ The project participants are now involved in the evaluation and interpretation o
 -	We aim to investigate and document local differences in the numbers and types of lighting in different places. For example, we are comparing city centers to residential neighborhoods, and campaign communities to one another.
 -	We aim to create awareness for the transition to sustainable lighting, by inviting citizens in different cities to use our app, participate in our nightlight measurement campaigns, and thus actively engage with artificial lighting and its side effects.
 
-#### **Key links and information when using the Nightlights app**
+#### **Key information and links when using the Nightlights app**
+The Nightlights team meets regularly online. If you want to stay up to date about our activities, subscribe to our [mailing list](https://www.listserv.dfn.de/sympa/subscribe/nachtlicht-buehne) or register in the [Nightlights App](https://lichter.nachtlicht-buehne.de/) to count lights on your own. To help you get started, here is a short app introduction ([video]((https://youtu.be/kmELeomAxts))). If you have questions about using the app, our answers to ["frequently asked questions"](https://docs.google.com/document/d/1Iaj1G3uAXcaUdEQEBfNktKA9AV2gCoMHwh-mUMZ8Mtc/edit#) will usually help.
+
 - [Nachtlichter App](https://lichter.nachtlicht-buehne.de/)
 - [Online Tutorial](/assets/docs/nl_tutorial_en/tutorial.html)
 - [Video: Campaign and App Introduction](https://youtu.be/kmELeomAxts)
