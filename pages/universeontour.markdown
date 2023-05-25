@@ -19,8 +19,8 @@ Tourplan von Universe on Tour:
 -	**München:** 5.–9.7.
 -	**Reutlingen:** 12.–16.7.
 -	**Heidelberg:** 19.–23.7.
--	**Frankfurt a. M.:** 26.–30.7.
+-	**Hofheim:** 26.–30.7.
 -	**Bonn:** 9.–13.8.
 -	**Dortmund:** 16.–20.8.
--	**Oldenburg:** 21.08. - 27.08.
--	**Bielefeld:** 04. - 10.09.
+-	**Oldenburg:** 23.08. - 27.08.
+-	**Bielefeld:** 06. - 10.09.
