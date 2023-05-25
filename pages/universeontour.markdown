@@ -22,5 +22,5 @@ Tourplan von Universe on Tour:
 -	**Hofheim:** 26.–30.7.
 -	**Bonn:** 9.–13.8.
 -	**Dortmund:** 16.–20.8.
--	**Oldenburg:** 23.08. - 27.08.
--	**Bielefeld:** 06. - 10.09.
+-	**Oldenburg:** 23.08.–27.08.
+-	**Bielefeld:** 06.–10.09.
