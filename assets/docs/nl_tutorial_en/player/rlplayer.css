@@ -3,7 +3,7 @@
  * Version: 9.1.0
  * Date: 2023.06.02
  */
- .ap-no-select {
+.ap-no-select {
 	-webkit-touch-callout: none; /* iOS Safari */
 	-webkit-user-select: none; /* Safari */
 	 -khtml-user-select: none; /* Konqueror HTML */
