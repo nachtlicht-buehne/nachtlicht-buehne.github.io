@@ -10,7 +10,7 @@ _Click here for [English](/nightlights)_
 Satellitenbilder der Erde bei Nacht werden nach Mitternacht aufgenommen, wenn die meisten Menschen schlafen. Sie geben daher kein korrektes Bild der Lichtnutzung am frühen Abend wieder. Unsere Gruppe von Bürgerforschenden und akademischen Forschenden hat bereits eine App entwickelt, um Lichtquellen entlang von Straßenabschnitten zu zählen - von beleuchteten Fenstern und Werbeschildern bis hin zu Straßenlaternen und Ampelanlagen. Im Rahmen des [Wissenschaftsjahres 2023 - Unser Universum](https://www.wissenschaftsjahr.de/2023/) haben wir unsere App an diese Frage angepasst und laden dich ein, in diesem Herbst erneut Lichter zu zählen! Dieses Jahr gibt es eine Besonderheit: Neben größeren lokalen Kampagnen (>3 Teilnehmende) kann man sich auch mit der Vermessung einer einzelnen Straße beteiligen!
 
 ### **Zeit für die Nacht**
-Ab dem 1. September und bis zum 31. Oktober bist du eingeladen, mit der [Nachtlichter-App](https://lichter.nachtlicht-buehne.de/) künstliche Lichtquellen zu erfassen. Für unsere diesjährige Kampagne “Zeit für die Nacht” wollen wir herausfinden, wie sich die Nutzung der Beleuchtung im Laufe des Abends und der Nacht verändert. Wie viele Unternehmen schalten zum Beispiel spätabends ihre Leuchtreklame aus und gibt es regionale Unterschiede? Dazu brauchen wir Personen, die eine oder mehrere Straßen mindestens zweimal ablaufen, wobei zwischen den Begehungen mindestens eine Stunde liegen sollte. Das geht ganz einfach mit der Nachtlichter-App, in der du einen bestehenden Straßenabschnitt auswählst oder selbst einen erstellst. Je mehr Straßen du erfasst und je häufiger, desto besser werden wir verstehen können, welche Leuchten wie lange angeschaltet sind. 
+Ab dem 1. September und bis zum 31. Oktober bist du eingeladen, mit der [Nachtlichter-App](https://lichter.nachtlicht-buehne.de/) künstliche Lichtquellen zu erfassen. Für unsere diesjährige Kampagne “Zeit für die Nacht” wollen wir herausfinden, wie sich die Nutzung der Beleuchtung im Laufe des Abends und der Nacht verändert. Wie viele Unternehmen schalten zum Beispiel spätabends ihre Leuchtreklame aus und gibt es regionale Unterschiede? Dazu brauchen wir Personen, die Straßen mindestens zweimal ablaufen, wobei zwischen den Begehungen mindestens eine Stunde liegen sollte. Das geht ganz einfach mit der Nachtlichter-App, in der du einen bestehenden Straßenabschnitt auswählst oder selbst einen erstellst. Je mehr Straßen du erfasst und je häufiger, desto besser werden wir verstehen können, welche Leuchten wie lange angeschaltet sind. 
 
 Wir sind auch auf der Suche nach Partner:innen, die größere lokale Kampagnen (>3 Teilnehmende) organisieren und durchführen. Hier findest du eine [Checkliste für Organisator:innen](/assets/docs/Anleitung_Checkliste-für-Organisatorinnen-von-Messkampagnen.pdf). Wenn du daran Spaß hättest, [kontaktiere uns](mailto:nachtlichter@gfz-potsdam.de) bitte.
 
@@ -30,6 +30,7 @@ Du kannst zählen, wo du magst! Wir interessieren uns für Stadtzentren, Vorstad
 - Wenn du Probleme mit diesen Schritten hast, schaue bitte auf unserer Seite ["häufig gestellte Fragen"](https://docs.google.com/document/d/1Iaj1G3uAXcaUdEQEBfNktKA9AV2gCoMHwh-mUMZ8Mtc/edit) nach. Wenn du weitere Hilfe benötigst, [wende dich direkt an uns](mailto:nachtlichter@gfz-potsdam.de).
 - Du kannst die App auch ohne ein Konto testen, indem du in den Einstellungen unter "Mein Konto" den "Übungsmodus" aktivierst. Die im Übungsmodus eingegebenen Daten werden jedoch nicht ausgewertet.
 - Wenn du außerhalb der EU lebst: Vergewissere dich, dass die Datenerfassung und -veröffentlichung in deinem Land legal ist und dass du deine Daten legal an Server in der Europäischen Union senden darfst.
+- Wenn du noch mehr Informationen erhalten möchtest, schaue dir gerne das [Webinar](https://youtu.be/yGpg7CcJCAQ) an.
 
 ##### ***Schritt 2: Erstelle einen Plan für die Straßen, die du ablaufen und zählen wirst***
 - In der App kannst du sehen, ob sich in der Nähe deines Wohnorts bereits Straßenabschnitte befinden. Wenn ja, kannst du eine Beobachtung in diesen Straßen durchführen.
@@ -73,6 +74,7 @@ Das Nachtlichter-Team trifft sich regelmäßig online. Wenn du über unsere Akti
 - [Nachtlichter-App](https://lichter.nachtlicht-buehne.de/)
 - [Online-Tutorial](/assets/docs/nl_tutorial_de/tutorial.html)
 - [Video: Kampagnen und App-Einführung](https://youtu.be/kvwuCo4zsTU)
+- [Webinar](https://youtu.be/yGpg7CcJCAQ)
 - [Häufige Fragen - FAQ](https://docs.google.com/document/d/1Iaj1G3uAXcaUdEQEBfNktKA9AV2gCoMHwh-mUMZ8Mtc/edit#)
 - [Video: Warum wir Lichter zählen - wissenschaftlicher Hintergrund](https://youtu.be/qACmiwkwZ78)
 - Anleitungen

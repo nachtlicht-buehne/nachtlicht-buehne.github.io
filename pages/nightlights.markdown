@@ -26,6 +26,7 @@ You can count anywhere you like! We are interested in city centers, suburban are
 - If you have problems with these steps, please check our answers to ["frequently asked questions"](https://docs.google.com/document/d/1Iaj1G3uAXcaUdEQEBfNktKA9AV2gCoMHwh-mUMZ8Mtc/edit#). If you need further help, [contact us](mailto:nachtlichter@gfz-potsdam.de) directly.
 - You can also test the app without an account, by enabling “practice mode” under the “Account” settings. However, any data submitted in practice mode will not be evaluated.
 - If you live outside of the EU: Make sure that data collection and publishing is legal in your country, and that it is legal for you to send your data to servers in the European Union.
+- If you want to get more information, look at our [Webinar](https://youtu.be/SpyM10lkw0I).
 
 ##### ***Step 2: Make a plan for the streets you will walk and count***
 - In the app, you can see whether any transects are located near to where you live. If there are, you can make an observation on those streets.
@@ -68,6 +69,7 @@ The Nightlights team meets regularly online. If you want to stay up to date abou
 - [Nachtlichter App](https://lichter.nachtlicht-buehne.de/)
 - [Online Tutorial](/assets/docs/nl_tutorial_en/tutorial.html)
 - [Video: Campaign and App Introduction](https://youtu.be/kmELeomAxts)
+- [Webinar](https://youtu.be/SpyM10lkw0I)
 - [FAQ](https://docs.google.com/document/d/1Iaj1G3uAXcaUdEQEBfNktKA9AV2gCoMHwh-mUMZ8Mtc/edit#)
 - Instructions
     - [Go out at night and count lights](/assets/docs/Instructions_Go-out-at-night-and-count-lights.pdf)
