@@ -30,6 +30,7 @@ Du kannst zählen, wo du magst! Wir interessieren uns für Stadtzentren, Vorstad
 - Wenn du Probleme mit diesen Schritten hast, schaue bitte auf unserer Seite ["häufig gestellte Fragen"](https://docs.google.com/document/d/1Iaj1G3uAXcaUdEQEBfNktKA9AV2gCoMHwh-mUMZ8Mtc/edit) nach. Wenn du weitere Hilfe benötigst, [wende dich direkt an uns](mailto:nachtlichter@gfz-potsdam.de).
 - Du kannst die App auch ohne ein Konto testen, indem du in den Einstellungen unter "Mein Konto" den "Übungsmodus" aktivierst. Die im Übungsmodus eingegebenen Daten werden jedoch nicht ausgewertet.
 - Wenn du außerhalb der EU lebst: Vergewissere dich, dass die Datenerfassung und -veröffentlichung in deinem Land legal ist und dass du deine Daten legal an Server in der Europäischen Union senden darfst.
+- Wenn du noch mehr Informationen erhalten möchtest, schaue dir gerne das [Webinar](https://youtu.be/yGpg7CcJCAQ) an.
 
 ##### ***Schritt 2: Erstelle einen Plan für die Straßen, die du ablaufen und zählen wirst***
 - In der App kannst du sehen, ob sich in der Nähe deines Wohnorts bereits Straßenabschnitte befinden. Wenn ja, kannst du eine Beobachtung in diesen Straßen durchführen.
@@ -73,6 +74,7 @@ Das Nachtlichter-Team trifft sich regelmäßig online. Wenn du über unsere Akti
 - [Nachtlichter-App](https://lichter.nachtlicht-buehne.de/)
 - [Online-Tutorial](/assets/docs/nl_tutorial_de/tutorial.html)
 - [Video: Kampagnen und App-Einführung](https://youtu.be/kvwuCo4zsTU)
+- [Webinar](https://youtu.be/yGpg7CcJCAQ)
 - [Häufige Fragen - FAQ](https://docs.google.com/document/d/1Iaj1G3uAXcaUdEQEBfNktKA9AV2gCoMHwh-mUMZ8Mtc/edit#)
 - [Video: Warum wir Lichter zählen - wissenschaftlicher Hintergrund](https://youtu.be/qACmiwkwZ78)
 - Anleitungen
