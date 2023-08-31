@@ -82,4 +82,4 @@ Contact us if you want to help organize a local campaign: [nachtlichter@gfz-pots
 
 Thanks for your interest in our project!
 
-[Christopher Kyba](https://www.geographie.ruhr-uni-bochum.de/mitarbeiter/christopher_kyba_00328.html.de) and [Loeka Jongejans](https://www.geographie.ruhr-uni-bochum.de/mitarbeiter/loeka_jongejans_00388.html.de)
+[Christopher Kyba](https://www.geographie.ruhr-uni-bochum.de/mitarbeiter/christopher_kyba_00328.html.de)

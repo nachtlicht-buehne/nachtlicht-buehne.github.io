@@ -12,6 +12,8 @@ Satellitenbilder der Erde bei Nacht werden nach Mitternacht aufgenommen, wenn di
 ### **Zeit für die Nacht**
 Ab dem 1. September und bis zum 31. Oktober bist du eingeladen, mit der [Nachtlichter-App](https://lichter.nachtlicht-buehne.de/) künstliche Lichtquellen zu erfassen. Für unsere diesjährige Kampagne “Zeit für die Nacht” wollen wir herausfinden, wie sich die Nutzung der Beleuchtung im Laufe des Abends und der Nacht verändert. Wie viele Unternehmen schalten zum Beispiel spätabends ihre Leuchtreklame aus und gibt es regionale Unterschiede? Dazu brauchen wir Personen, die Straßen mindestens zweimal ablaufen, wobei zwischen den Begehungen mindestens eine Stunde liegen sollte. Das geht ganz einfach mit der Nachtlichter-App, in der du einen bestehenden Straßenabschnitt auswählst oder selbst einen erstellst. Je mehr Straßen du erfasst und je häufiger, desto besser werden wir verstehen können, welche Leuchten wie lange angeschaltet sind. 
 
+Am 7. September um 19:00 findet über Zoom ein nationales Kickoff-Event statt. Wenn du daran teilnehmen möchtest, melde dich für die [Nachtlicht-BüHNE Mailing Liste] (https://www.listserv.dfn.de/sympa/subscribe/nachtlicht-buehne) an.
+
 Wir sind auch auf der Suche nach Partner:innen, die größere lokale Kampagnen (>3 Teilnehmende) organisieren und durchführen. Hier findest du eine [Checkliste für Organisator:innen](/assets/docs/Anleitung_Checkliste-für-Organisatorinnen-von-Messkampagnen.pdf). Wenn du daran Spaß hättest, [kontaktiere uns](mailto:nachtlichter@gfz-potsdam.de) bitte.
 
 Hier findest du unseren [Projektflyer](/assets/docs/2023_flyer_nachtlicht-buehne_compressed.pdf). Wenn du Papierflyer zur Werbung für die Kampagne erhalten möchtest, [kontaktiere uns](mailto:nachtlichter@gfz-potsdam.de) bitte.
@@ -87,4 +89,4 @@ Nimm Kontakt mit uns auf, wenn du bei der Organisation einer lokalen Kampagne od
  
 Vielen Dank für dein Interesse an unserem Projekt!
  
-[Christopher Kyba](https://www.geographie.ruhr-uni-bochum.de/mitarbeiter/christopher_kyba_00328.html.de) und [Loeka Jongejans](https://www.geographie.ruhr-uni-bochum.de/mitarbeiter/loeka_jongejans_00388.html.de)
+[Christopher Kyba](https://www.geographie.ruhr-uni-bochum.de/mitarbeiter/christopher_kyba_00328.html.de) 
