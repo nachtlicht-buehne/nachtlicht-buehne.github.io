@@ -12,7 +12,7 @@ Satellitenbilder der Erde bei Nacht werden nach Mitternacht aufgenommen, wenn di
 ### **Zeit für die Nacht**
 Ab dem 1. September und bis zum 31. Oktober bist du eingeladen, mit der [Nachtlichter-App](https://lichter.nachtlicht-buehne.de/) künstliche Lichtquellen zu erfassen. Für unsere diesjährige Kampagne “Zeit für die Nacht” wollen wir herausfinden, wie sich die Nutzung der Beleuchtung im Laufe des Abends und der Nacht verändert. Wie viele Unternehmen schalten zum Beispiel spätabends ihre Leuchtreklame aus und gibt es regionale Unterschiede? Dazu brauchen wir Personen, die Straßen mindestens zweimal ablaufen, wobei zwischen den Begehungen mindestens eine Stunde liegen sollte. Das geht ganz einfach mit der Nachtlichter-App, in der du einen bestehenden Straßenabschnitt auswählst oder selbst einen erstellst. Je mehr Straßen du erfasst und je häufiger, desto besser werden wir verstehen können, welche Leuchten wie lange angeschaltet sind. 
 
-Am 7. September um 19:00 findet über Zoom ein nationales Kickoff-Event statt. Wenn du daran teilnehmen möchtest, melde dich für die [Nachtlicht-BüHNE Mailing Liste] (https://www.listserv.dfn.de/sympa/subscribe/nachtlicht-buehne) an.
+Am 7. September um 19:00 findet über Zoom ein nationales Kickoff-Event statt und am 5. Oktober ein nationales Bergfest um 19:00. Wenn du daran teilnehmen möchtest, melde dich für die [Nachtlicht-BüHNE Mailing Liste] (https://www.listserv.dfn.de/sympa/subscribe/nachtlicht-buehne) an.
 
 Wir sind auch auf der Suche nach Partner:innen, die größere lokale Kampagnen (>3 Teilnehmende) organisieren und durchführen. Hier findest du eine [Checkliste für Organisator:innen](/assets/docs/Anleitung_Checkliste-für-Organisatorinnen-von-Messkampagnen.pdf). Wenn du daran Spaß hättest, [kontaktiere uns](mailto:nachtlichter@gfz-potsdam.de) bitte.
 
@@ -60,9 +60,6 @@ Du kannst zählen, wo du magst! Wir interessieren uns für Stadtzentren, Vorstad
 
 ![](/assets/img/levels.png)
 
-### **Wie du mehr erfährst**
-Bis September reist die Wanderausstellung [Universe on Tour](https://www.wissenschaftsjahr.de/2023/universe-on-tour) durch 15 Städte in Deutschland. Hier kannst du mehr über die Bedeutung von Licht als Informationsträger sowie die Auswirkungen von Lichtverschmutzung auf Umwelt, Bevölkerung und Astronomie erfahren. **Wir laden dich zu einem Light Walk ein, jeden Samstag um 20 Uhr in der Stadt, in der die Wanderausstellung in dieser Woche stattfindet (Treffpunkt: vor dem Ausstellungszelt).** Hinweis: Bei schlechtem Wetter fällt der Light Walk aus.
-
 ### **Die bisherigen Nachtlichter-Kampagnen – in Deutschland und weltweit**
 Von Ende August bis Mitte November 2021 waren **über 200 Bürgerwissenschaftler:innen** mit der [Nachtlichter-App](https://lichter.nachtlicht-buehne.de/) auf nächtlichen Straßen unterwegs. Dank dieser wundervollen Unterstützung konnten wir unerwartet viele lokale Kampagnen erfolgreich beenden. In weniger als drei Monaten haben wir so fast **eine Viertelmillion Lichter erfasst und nach Art, Helligkeit und Farbe klassifiziert**! Die Fläche der zusammenhängenden Zählgebiete summiert sich auf insgesamt 22 Quadratkilometer und die Teilnehmenden haben **beim Lichterzählen eine Gesamtstrecke von 645 km** zurückgelegt.
 
@@ -84,9 +81,10 @@ Das Nachtlichter-Team trifft sich regelmäßig online. Wenn du über unsere Akti
     - [Straßenabschnitte am Rechner erstellen](/assets/docs/Anleitung_Straßenabschnitte-am-Rechner-erstellen.pdf)
     - [Straßenabschnitte auf dem Handy erstellen und dabei Lichter zählen](/assets/docs/Anleitung_Straßenabschnitte-auf-dem-Handy-erstellen-und-dabei-Lichter-zählen.pdf)
     - [Checkliste für Organisator:innen von lokalen Messkampagnen](/assets/docs/Anleitung_Checkliste-für-Organisatorinnen-von-Messkampagnen.pdf)
+- [Tagesaktuelle Statistiken zu der Messkampagne](https://nachtlichter.geographie.ruhr-uni-bochum.de/dashboard/)
 
 Nimm Kontakt mit uns auf, wenn du bei der Organisation einer lokalen Kampagne oder bei der Datenanalyse helfen möchtest: [nachtlichter@gfz-potsdam.de](mailto:nachtlichter@gfz-potsdam.de)
  
 Vielen Dank für dein Interesse an unserem Projekt!
  
-[Christopher Kyba](https://www.geographie.ruhr-uni-bochum.de/mitarbeiter/christopher_kyba_00328.html.de) 
+[Christopher Kyba](https://www.geographie.ruhr-uni-bochum.de/mitarbeiter/christopher_kyba_00328.html.de) und das Nachtlichter Co-Design Team
