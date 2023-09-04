@@ -10,6 +10,8 @@ Satellite images of the Earth at night are taken after midnight, when most peopl
 ### **Time for the Night**
 Starting from September 1 and going until October 31, you are invited to create a record of lighting change using the [Nightlights App](https://lichter.nachtlicht-buehne.de/). For our special “Time for the Night” campaign this year, we want to find out how the distribution and use of lights changes during the course of the evening and night. For example, how many businesses turn off their signs late at night, and does this depend on how big a city is? To do this, we need people to survey streets at least twice, with at least an hour between the two surveys. It’s easy to do so with the Nightlights app, whether you select an existing street segment or create a new one yourself. The more streets you survey, and the more often you survey them, the better we will understand the times and kinds of lights that turn off.
 
+We have a national kickoff event online at 7pm on September 7th and a mid-campaign celebration at 7pm on October 5th. If you want to join those events, sign up for the [Nachtlicht-BüHNE mailing list](https://www.listserv.dfn.de/sympa/subscribe/nachtlicht-buehne).
+
 In addition to individual efforts, we are also looking for partners to organize and run larger local campaigns. Here you can find a [checklist for local organizers](/assets/docs/Instructions_Checklist-for-organizers-of-local-campaigns.pdf). If that sounds like something you would enjoy, please contact us!
 
 ### **How to participate**
@@ -53,9 +55,6 @@ You can count anywhere you like! We are interested in city centers, suburban are
 - Here are three examples of how a participant might choose to organize their counting on one night. Please feel free to adapt this so that the and surveys fit your schedule. Also note that towards the end of the campaign, it will be dark earlier, so you can start earlier.
 ![](/assets/img/levels-en.png)
 
-### **How to learn more** 
-Until September 2023, the roadshow [Universe on Tour](https://www.wissenschaftsjahr.de/2023/universe-on-tour) will travel to 15 cities in Germany. Here, you can learn more about the importance of light as an information carrier and the effects of light pollution on the environment, the population and astronomy. **Each Saturday at 8 pm, we take you on a Light Walk in the city where the roadshow is that week (meeting point: in front of the exhibition tent).** Note: in case of bad weather the Light Walk is cancelled.
-
 ### **The previous Nightlights campaigns - in Germany and worldwide**
 From the end of August 2021 until mid-November 2021, **more than 200 citizen scientists** counted and classified almost **a quarter of a million artificial light sources** in public streets and squares. While counting lights, they have **walked 645 kilometers and covered a total of 22 square km** in different field sites in Germany and worldwide.
 
@@ -76,10 +75,10 @@ The Nightlights team meets regularly online. If you want to stay up to date abou
     - [Create a transect on your PC](/assets/docs/Instructions_Create-a-transect-on-your-PC.pdf)
     - [Create a transect on your phone and count lights](/assets/docs/Instructions_Create-a-transect-on-your-phone-while-counting-lights.pdf)
     - [Checkliste for organizers of local campaigns](/assets/docs/Instructions_Checklist-for-organizers-of-local-campaigns.pdf)
-
+- [Daily Statistics on the measurement campaign](https://nachtlichter.geographie.ruhr-uni-bochum.de/dashboard/)
 
 Contact us if you want to help organize a local campaign: [nachtlichter@gfz-potsdam.de](mailto:nachtlichter@gfz-potsdam.de)
 
 Thanks for your interest in our project!
 
-[Christopher Kyba](https://www.geographie.ruhr-uni-bochum.de/mitarbeiter/christopher_kyba_00328.html.de) and [Loeka Jongejans](https://www.geographie.ruhr-uni-bochum.de/mitarbeiter/loeka_jongejans_00388.html.de)
+[Christopher Kyba](https://www.geographie.ruhr-uni-bochum.de/mitarbeiter/christopher_kyba_00328.html.de) and the Nachtlichter Co-Design Team
