@@ -12,7 +12,7 @@ Satellitenbilder der Erde bei Nacht werden nach Mitternacht aufgenommen, wenn di
 ### **Zeit für die Nacht**
 Ab dem 1. September und bis zum 31. Oktober bist du eingeladen, mit der [Nachtlichter-App](https://lichter.nachtlicht-buehne.de/) künstliche Lichtquellen zu erfassen. Für unsere diesjährige Kampagne “Zeit für die Nacht” wollen wir herausfinden, wie sich die Nutzung der Beleuchtung im Laufe des Abends und der Nacht verändert. Wie viele Unternehmen schalten zum Beispiel spätabends ihre Leuchtreklame aus und gibt es regionale Unterschiede? Dazu brauchen wir Personen, die Straßen mindestens zweimal ablaufen, wobei zwischen den Begehungen mindestens eine Stunde liegen sollte. Das geht ganz einfach mit der Nachtlichter-App, in der du einen bestehenden Straßenabschnitt auswählst oder selbst einen erstellst. Je mehr Straßen du erfasst und je häufiger, desto besser werden wir verstehen können, welche Leuchten wie lange angeschaltet sind. 
 
-Am 7. September um 19:00 findet über Zoom ein nationales Kickoff-Event statt und am 5. Oktober ein nationales Bergfest um 19:00. Wenn du daran teilnehmen möchtest, melde dich für die [Nachtlicht-BüHNE Mailing Liste] (https://www.listserv.dfn.de/sympa/subscribe/nachtlicht-buehne) an.
+Am 7. September um 19:00 findet über Zoom ein nationales Kickoff-Event statt und am 5. Oktober ein nationales Bergfest um 19:00. Wenn du daran teilnehmen möchtest, melde dich für die [Nachtlicht-BüHNE Mailing Liste](https://www.listserv.dfn.de/sympa/subscribe/nachtlicht-buehne) an.
 
 Wir sind auch auf der Suche nach Partner:innen, die größere lokale Kampagnen (>3 Teilnehmende) organisieren und durchführen. Hier findest du eine [Checkliste für Organisator:innen](/assets/docs/Anleitung_Checkliste-für-Organisatorinnen-von-Messkampagnen.pdf). Wenn du daran Spaß hättest, [kontaktiere uns](mailto:nachtlichter@gfz-potsdam.de) bitte.
 
@@ -80,6 +80,7 @@ Das Nachtlichter-Team trifft sich regelmäßig online. Wenn du über unsere Akti
     - [Nachts auf die Straße gehen und Lichter zählen](/assets/docs/Anleitung_Nachts-auf-die-Straße-gehen-und-Lichter-zählen.pdf)
     - [Straßenabschnitte am Rechner erstellen](/assets/docs/Anleitung_Straßenabschnitte-am-Rechner-erstellen.pdf)
     - [Straßenabschnitte auf dem Handy erstellen und dabei Lichter zählen](/assets/docs/Anleitung_Straßenabschnitte-auf-dem-Handy-erstellen-und-dabei-Lichter-zählen.pdf)
+    - [Videoanleitung zur Erstellung von Straßenabschnitten](https://ruhr-uni-bochum.sciebo.de/s/L3vridYZoYqBtfF)
     - [Checkliste für Organisator:innen von lokalen Messkampagnen](/assets/docs/Anleitung_Checkliste-für-Organisatorinnen-von-Messkampagnen.pdf)
 - [Tagesaktuelle Statistiken zu der Messkampagne](https://nachtlichter.geographie.ruhr-uni-bochum.de/dashboard/)
 
