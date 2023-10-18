@@ -76,6 +76,7 @@ Das Nachtlichter-Team trifft sich regelmäßig online. Wenn du über unsere Akti
 - [Webinar](https://youtu.be/yGpg7CcJCAQ)
 - [Häufige Fragen - FAQ](https://docs.google.com/document/d/1Iaj1G3uAXcaUdEQEBfNktKA9AV2gCoMHwh-mUMZ8Mtc/edit#)
 - [Video: Warum wir Lichter zählen - wissenschaftlicher Hintergrund](https://youtu.be/qACmiwkwZ78)
+- [Video: Das vielleicht unnötigste Problem unserer Zeit - Doktor Whatson](https://www.youtube.com/watch?v=BewWGwajmiM)
 - Anleitungen
     - [Nachts auf die Straße gehen und Lichter zählen](/assets/docs/Anleitung_Nachts-auf-die-Straße-gehen-und-Lichter-zählen.pdf)
     - [Straßenabschnitte am Rechner erstellen](/assets/docs/Anleitung_Straßenabschnitte-am-Rechner-erstellen.pdf)
