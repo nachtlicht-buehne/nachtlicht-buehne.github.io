@@ -10,7 +10,8 @@ _Click here for [English](/nightlights)_
 Satellitenbilder der Erde bei Nacht werden nach Mitternacht aufgenommen, wenn die meisten Menschen schlafen. Sie geben daher kein korrektes Bild der Lichtnutzung am frühen Abend wieder. Unsere Gruppe von Bürgerforschenden und akademischen Forschenden hat bereits eine App entwickelt, um Lichtquellen entlang von Straßenabschnitten zu zählen - von beleuchteten Fenstern und Werbeschildern bis hin zu Straßenlaternen und Ampelanlagen. Im Rahmen des [Wissenschaftsjahres 2023 - Unser Universum](https://www.wissenschaftsjahr.de/2023/) haben wir unsere App an diese Frage angepasst und in diesem Herbst erneut Lichter gezählt! Dieses Jahr gab es eine Besonderheit: Neben größeren lokalen Kampagnen (>3 Teilnehmende) konnte man sich auch mit der Vermessung einer einzelnen Straße beteiligen!
 
 ### **Zeit für die Nacht**
-Die Zählkampagne für 2023 ist vorbei! Über die letzten Monate hinweg haben wir Lichter gezählt, ab jetzt starten die nächsten Schritte. Wir beginnen mit der Analyse der gesammelten Daten und geben darüber Bescheid, sobald wir die ersten Ergebnisse haben!
+#### **Die Zählkampagne für 2023 ist vorbei!**
+ Über die letzten Monate hinweg haben wir Lichter gezählt, ab jetzt starten die nächsten Schritte. Wir beginnen mit der Analyse der gesammelten Daten und geben darüber Bescheid, sobald wir die ersten Ergebnisse haben!
 
 Die Informationen auf der Website werden für Interessenten bestehen bleiben. Auch die App kann gerne weiterhin für den eigenen Gebrauch benutzt werden, die neu gewonnenen Daten werden jedoch nicht mehr in die Analyse einfließen.
 
