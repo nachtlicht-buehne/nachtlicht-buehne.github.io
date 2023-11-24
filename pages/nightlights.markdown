@@ -5,10 +5,18 @@ permalink: /nightlights
 ---
 
 ### **We count lights, because the night counts**
-Satellite images of the Earth at night are taken after midnight, when most people are sleeping. They therefore do not provide a correct picture of light use in the early evening. Our group of citizen scientists and researchers has previously developed an app to count light sources along street segments – from illuminated windows and advertising signs to street lamps and traffic lights. As a part of [Science Year 2023 – Our Universe](https://www.wissenschaftsjahr.de/2023/english), we are have modified our app to address this question, and we are inviting you to count lights again this fall! A twist this year is that in addition to larger local campaigns (>3 participants), it will be possible to take part by surveying a single street!
+Satellite images of the Earth at night are taken after midnight, when most people are sleeping. They therefore do not provide a correct picture of light use in the early evening. Our group of citizen scientists and researchers has previously developed an app to count light sources along street segments – from illuminated windows and advertising signs to street lamps and traffic lights. As a part of [Science Year 2023 – Our Universe](https://www.wissenschaftsjahr.de/2023/english), we have modified our app to address this question, and we invited you to count lights again this fall! A twist this year is that in addition to larger local campaigns (>3 participants), it was possible to take part by surveying a single street!
 
 ### **Time for the Night**
-Starting from September 1 and going until November 14, you are invited to create a record of lighting change using the [Nightlights App](https://lichter.nachtlicht-buehne.de/). For our special “Time for the Night” campaign this year, we want to find out how the distribution and use of lights changes during the course of the evening and night. For example, how many businesses turn off their signs late at night, and does this depend on how big a city is? To do this, we need people to survey streets at least twice, with at least an hour between the two surveys. It’s easy to do so with the Nightlights app, whether you select an existing street segment or create a new one yourself. The more streets you survey, and the more often you survey them, the better we will understand the times and kinds of lights that turn off.
+#### **The campaign for 2023 is over!** 
+We have been counting lights over the last few months, and now the next steps are starting. We are starting to analyze the collected data and will let you know as soon as we have the first results!
+
+The information on the website will remain available for interested parties. You are also welcome to continue using the app for your own use, but the newly collected data will no longer be included in the analysis.
+
+Thank you for your support in counting the lights for this year's campaign!
+
+
+Starting from September 1 and going until November 14, you were invited to create a record of lighting change using the [Nightlights App](https://lichter.nachtlicht-buehne.de/). For our special “Time for the Night” campaign this year, we want to find out how the distribution and use of lights changes during the course of the evening and night. For example, how many businesses turn off their signs late at night, and does this depend on how big a city is? To do this, we need people to survey streets at least twice, with at least an hour between the two surveys. It’s easy to do so with the Nightlights app, whether you select an existing street segment or create a new one yourself. The more streets you survey, and the more often you survey them, the better we will understand the times and kinds of lights that turn off.
 
 ### **How to participate**
 #### **What to count?**
