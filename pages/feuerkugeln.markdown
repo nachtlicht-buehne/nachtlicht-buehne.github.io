@@ -7,7 +7,7 @@ Meteore, auch Sternschnuppen genannt, sind Staubteilchen die in der Hochatmosph√
 
 Diese Web-App ist hier verf√ºgbar: [https://meteor.nachtlicht-buehne.de](https://meteor.nachtlicht-buehne.de)
 
-Die gemeldeten Sichtungen sidn maschinell lesbar im JSON Format abrufbar: [JSON-API](https://meteor.nachtlicht-buehne.de/api/v1/sky_events?sort=observationTimestamp,desc&projection=inline&size=300)
+Die gemeldeten Sichtungen sind maschinell lesbar im JSON Format abrufbar: [JSON-API](https://meteor.nachtlicht-buehne.de/api/v1/sky_events?sort=observationTimestamp,desc&projection=inline&size=300)
 
 ### Ziele
 
