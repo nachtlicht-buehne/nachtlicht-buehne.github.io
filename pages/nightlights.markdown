@@ -5,7 +5,7 @@ permalink: /nightlights
 ---
 
 ### **We count lights, because the night counts**
-Satellite images of the Earth at night are taken after midnight, when most people are sleeping. They therefore do not provide a correct picture of light use in the early evening. Our group of citizen scientists and researchers has previously developed an app to count light sources along street segments – from illuminated windows and advertising signs to street lamps and traffic lights. As a part of [Science Year 2023 – Our Universe](https://www.wissenschaftsjahr.de/2023/english), we have modified our app to address this question, and we invited you to count lights again this fall! A twist this year is that in addition to larger local campaigns (>3 participants), it was possible to take part by surveying a single street!
+Satellite images of the Earth at night are taken after midnight, when most people are sleeping. They therefore do not provide a correct picture of light use in the early evening. Our group of citizen scientists and researchers developed an app to count light sources along street segments – from illuminated windows and advertising signs to street lamps and traffic lights. As a part of [Science Year 2023 – Our Universe](https://www.wissenschaftsjahr.de/2023/english), we modified our app to address this question. We are currently working on anlyzing the data, and hope to submit a paper based on the 2023 campaign later this year.
 
 ### **Time for the Night**
 #### **The campaign for 2023 is over!** 
