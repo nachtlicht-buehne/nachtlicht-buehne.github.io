@@ -89,8 +89,7 @@ Das Nachtlichter-Team trifft sich regelmäßig online. Wenn du über unsere Akti
     - [Checkliste für Organisator:innen von lokalen Messkampagnen](/assets/docs/Anleitung_Checkliste-für-Organisatorinnen-von-Messkampagnen.pdf)
 - [Tagesaktuelle Statistiken zu der Messkampagne](https://nachtlichter.geographie.ruhr-uni-bochum.de/dashboard/)
 
-Nimm Kontakt mit uns auf, wenn du bei der Organisation einer lokalen Kampagne oder bei der Datenanalyse helfen möchtest: [nachtlichter@gfz-potsdam.de](mailto:nachtlichter@gfz-potsdam.de)
- 
+
 Vielen Dank für dein Interesse an unserem Projekt!
  
 [Christopher Kyba](https://www.geographie.ruhr-uni-bochum.de/mitarbeiter/christopher_kyba_00328.html.de) und das Nachtlichter Co-Design Team
