@@ -81,7 +81,6 @@ The Nightlights team meets regularly online. If you want to stay up to date abou
     - [Checkliste for organizers of local campaigns](/assets/docs/Instructions_Checklist-for-organizers-of-local-campaigns.pdf)
 - [Daily Statistics on the measurement campaign](https://nachtlichter.geographie.ruhr-uni-bochum.de/dashboard/)
 
-Contact us if you want to help organize a local campaign: [nachtlichter@gfz-potsdam.de](mailto:nachtlichter@gfz-potsdam.de)
 
 Thanks for your interest in our project!
 
